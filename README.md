@@ -34,5 +34,5 @@ MAX_MESSAGES_COUNT = 100
 DEBUG = True                
 
 ### Установка
-```bash
+```
 pip install pywebio
