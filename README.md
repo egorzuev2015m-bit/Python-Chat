@@ -28,10 +28,10 @@
 ## ⚙️ Настройка
 В коде можно изменить:
 
-```python
-PORT = 8080                  # Порт сервера
-MAX_MESSAGES_COUNT = 100     # Лимит сообщений
-DEBUG = True                 # Режим отладки
+```
+PORT = 8080               
+MAX_MESSAGES_COUNT = 100    
+DEBUG = True                
 
 ### Установка
 ```bash
