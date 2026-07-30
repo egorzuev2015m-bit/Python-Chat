@@ -36,4 +36,6 @@ DEBUG = True
                
 
 ## Установка
-```pip install pywebio
+```
+pip install pywebio
+```
