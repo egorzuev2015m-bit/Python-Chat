@@ -32,7 +32,7 @@
 PORT = 8080               
 MAX_MESSAGES_COUNT = 100    
 DEBUG = True
-
+```
                
 
 ## Установка
