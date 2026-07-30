@@ -29,9 +29,9 @@
 В коде можно изменить:
 
 ```
-PORT = 8080               
-MAX_MESSAGES_COUNT = 100    
-DEBUG = True
+PORT = 8080                  # Порт сервера
+MAX_MESSAGES_COUNT = 100     # Лимит сообщений
+DEBUG = True                 # Режим отладки
 ```
                
 
